@@ -1,0 +1,17 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+# certifi==2024.8.30
+# charset-normalizer==3.3.2
+# greenlet==3.1.1
+# idna==3.10
+numpy==2.1.1
+pandas==2.2.3
+# pyodbc==4.0.32
+# python-dateutil==2.9.0.post0
+# pytz==2024.2
+requests==2.32.3
+# six==1.16.0
+sqlalchemy==1.4.36
+# typing_extensions==4.12.2
+# tzdata==2024.2
+# urllib3==2.2.3
